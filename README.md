@@ -2,7 +2,7 @@
 
 Setup guide for Github deploy over ssh using rsync
 
-Disclaimer: the original guide is hosted on [zellwk.com website]([https://zellwk.com/](https://zellwk.com/blog/github-actions-deploy/) and this repo is only for quick reference and avoid lost it if the original become unreachable
+Disclaimer: the original guide is hosted on [zellwk.com website](https://zellwk.com/blog/github-actions-deploy/) and this repo is only for quick reference and avoid lost it if the original become unreachable
 
 _______________________________________________________________________________________________________________________
 
